@@ -24,9 +24,9 @@
         "priority": 4
     },
     {
-        "id": "niuniu",
-        "name": "牛牛点播",
-        "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
+        "id": "modou",
+        "name": "墨斗点播",
+        "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 46
@@ -38,5 +38,42 @@
         "group": "normal",
         "enabled": true,
         "priority": 54
+    },
+    {
+        "id": "hsck",
+        "name": "黄色仓库",
+        "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 6
+    },
+    {
+        "id": "yutu",
+        "name": "玉兔",
+        "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 7
+    },{
+        "id": "madou",
+        "name": "91麻豆",
+        "baseUrl": "https://91md.me/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 14
+    },{
+        "id": "senlin",
+        "name": "森林资源",
+        "baseUrl": "https://slapibf.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 17
+    },{
+        "id": "jingpin",
+        "name": "精品资源",
+        "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 19
     }
 ]
